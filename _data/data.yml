@@ -1,29 +1,27 @@
-name: John Doe
+name: Rayan Imran
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: imranr@myumanitoba.ca
+  github: github.com/RayanImran
+  linkedin: linkedin.com/in/rayanimran/
   phone: 
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Hindi
+  - idiom: Urdu
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+
 
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+    time: 2019-present
+    university: University of Manitoba
 
 skills:
   - category: Backend
