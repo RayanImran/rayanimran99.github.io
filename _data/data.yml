@@ -24,83 +24,47 @@ education:
     university: University of Manitoba
 
 skills:
-  - category: Programming  Languages
+  - category: Programming Languages
     skill: 
       - Java
       - Python
-  - category: Frontend
+      - SQL
+      - C/C++
+  - category: Programming Libraries and Softwares
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
-
-# Profile
-profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+      - Android Studio
+      - Intellij
+      - Numpy/Pandas/Scikit Learn
+ 
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
+  - role: Research Assistant Intern
+    time: May 2022 - Aug 2022
     company: Google
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Collaborated with 4 other research students to find devise solutions on data science research project. 
+      Facilitated end to end solution on Explainable artificial intelligence explaining to end users how impactful our machine learning model is with the help of diagrams using python. 
+      Implemented new statistical models and mathematical methodologies as needed for specific model or analysis. 
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Sales Associate
+    time: Dec 2021 - present
+    company: Swift Quartz Watch & Jewelry Services
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Assist an average of 50 customers per day by responding to inquiries and finding products such as watch bands and jewelries. 
+      Replace watch batteries and car key fob batteries with new ones according to customer demands. 
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: Pet Exchange Android App 
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Created an application that allows pet owners to post pictures about their pets if they are willing to sell them. It also allows other users see those images and buy them. 
+      Wrote clean, clear, efficient, well tested and mantainable code on android studio.
 
-  - title: Cool Project 
+  - title: Game of Thrones Database Project
     link: #
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Aggregated game of thrones data where battles are fought between different families.
+      Created SQL queries to provide users with relevant statistical data.
+      Created GUI menu with python for user to select options to display data the user wants.
