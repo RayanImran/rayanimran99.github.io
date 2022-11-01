@@ -24,13 +24,13 @@ education:
     university: University of Manitoba
 
 skills:
-  - category: Programming Languages
+  - category: Programming
     skill: 
       - Java
       - Python
       - SQL
       - C/C++
-  - category: Programming Libraries and Softwares
+  - category: Libraries/Softwares
     skill:
       - Android Studio
       - Intellij
@@ -41,7 +41,7 @@ skills:
 experience:
   - role: Research Assistant Intern
     time: May 2022 - Aug 2022
-    company: Google
+    company: Data Mining Lab, University of Manitoba
     details: |
       Collaborated with 4 other research students to find devise solutions on data science research project. 
       Facilitated end to end solution on Explainable artificial intelligence explaining to end users how impactful our machine learning model is with the help of diagrams using python. 
@@ -57,13 +57,13 @@ experience:
 
 projects:
   - title: Pet Exchange Android App 
-    link: #
+    
     details: |
       Created an application that allows pet owners to post pictures about their pets if they are willing to sell them. It also allows other users see those images and buy them. 
       Wrote clean, clear, efficient, well tested and mantainable code on android studio.
 
   - title: Game of Thrones Database Project
-    link: #
+   
     details: |
       Aggregated game of thrones data where battles are fought between different families.
       Created SQL queries to provide users with relevant statistical data.
