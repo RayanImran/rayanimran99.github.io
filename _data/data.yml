@@ -26,8 +26,8 @@ education:
 skills:
   - category: Programming  Languages
     skill: 
-      * Java
-      * Rust
+      - Java
+      - Python
   - category: Frontend
     skill:
       - React
