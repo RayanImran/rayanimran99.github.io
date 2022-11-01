@@ -5,8 +5,8 @@ fork: true
 # Sidebar
 contact:
   email: imranr@myumanitoba.ca
-  github: github.com/RayanImran
-  linkedin: linkedin.com/in/rayanimran/
+  github: www.github.com/RayanImran
+  linkedin: www.linkedin.com/in/rayanimran/
   phone: 
   gitlab: 
   twitter: 
@@ -24,10 +24,10 @@ education:
     university: University of Manitoba
 
 skills:
-  - category: Backend
+  - category: Programming  Languages
     skill: 
-      - Go
-      - Rust
+      * Java
+      * Rust
   - category: Frontend
     skill:
       - React
